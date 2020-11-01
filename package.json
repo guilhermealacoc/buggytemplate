@@ -1,0 +1,19 @@
+{
+  "name": "buggytemplate",
+  "version": "1.0.0",
+  "description": "An API template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermealacoc/buggytemplate.git"
+  },
+  "author": "Guilherme Alacoc and Bruno Leandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guilhermealacoc/buggytemplate/issues"
+  },
+  "homepage": "https://github.com/guilhermealacoc/buggytemplate#readme"
+}
