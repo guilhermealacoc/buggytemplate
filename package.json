@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/guilhermealacoc/buggytemplate/issues"
   },
-  "homepage": "https://github.com/guilhermealacoc/buggytemplate#readme"
+  "homepage": "https://github.com/guilhermealacoc/buggytemplate#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
